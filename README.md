@@ -4,7 +4,7 @@
 
 # Prive8 — 
 
-Aplicação web de exemplo; substitua pelo propósito real do projeto.
+Aplicação web de exemplo; substitua pelo propósito real doprojeto.
 
 Repositório: https://github.com/eloiescolhido7-star/Prive8
 
