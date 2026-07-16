@@ -1,0 +1,22 @@
+{
+  "name": "prive8",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Site estático para Prive8",
+  "homepage": "https://eloiescolhido7-star.github.io/Prive8",
+  "scripts": {
+    "predeploy": "echo 'No build step configured'",
+    "deploy": "npx gh-pages -d .",
+    "start": "echo 'No dev server configured'",
+    "test": "echo 'No tests configured'"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloiescolhido7-star/Prive8.git"
+  },
+  "author": "eloiescolhido7-star",
+  "license": "MIT"
+}
