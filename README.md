@@ -4,9 +4,11 @@
 
 # Prive8 — 
 
-Aplicação web de exemplo; substitua pelo propósito real doprojeto.
+Aplicação web de exemplo; substitua pelo propósito real do projeto.
 
 Repositório: https://github.com/eloiescolhido7-star/Prive8
+
+**🌐 Site ao vivo:** https://eloiescolhido7-star.github.io/Prive8/
 
 ## Funcionalidades
 
@@ -54,6 +56,22 @@ Repositório: https://github.com/eloiescolhido7-star/Prive8
 - Executar suíte de testes:
 
   npm test
+
+## Deploy
+
+Este repositório está configurado com **GitHub Actions** para deploy automático em GitHub Pages.
+
+- **Branch de deploy:** `gh-pages`
+- **Trigger:** Automático a cada push na `main`
+- **URL do site:** https://eloiescolhido7-star.github.io/Prive8/
+
+### Como funciona o deploy automático:
+
+1. Faça um push para a branch `main`
+2. O workflow `.github/workflows/deploy.yml` é acionado automaticamente
+3. A aplicação é buildada com `npm run build`
+4. Os arquivos são publicados em GitHub Pages
+5. Seu site estará disponível em poucos minutos
 
 ## Contribuição
 
