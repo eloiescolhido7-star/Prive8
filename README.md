@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/295879379?v=4" alt="Prive8 logo" width="120" />
 </p>
 
-# Prive8 — Aplicação de exemplo
+# Prive8 — 
 
 Aplicação web de exemplo; substitua pelo propósito real do projeto.
 
