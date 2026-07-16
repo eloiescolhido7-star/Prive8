@@ -1,26 +1,27 @@
-# Prive8
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/295879379?v=4" alt="Prive8 logo" width="120" />
+</p>
 
-> Projeto Prive8 — aplicação web de exemplo
+# Prive8 — Aplicação de exemplo
 
-Descrição
+Aplicação web de exemplo; substitua pelo propósito real do projeto.
 
-Prive8 é um projeto de exemplo para demonstrar uma aplicação web moderna. Este README contém instruções básicas para instalar, executar e contribuir com o projeto. Substitua este texto por uma descrição mais detalhada do propósito real do projeto.
+Repositório: https://github.com/eloiescolhido7-star/Prive8
 
-Funcionalidades
+## Funcionalidades
 
 - Autenticação de usuário (exemplo)
 - Painel de perfil
 - Integração com API externa (exemplo)
 - Interface responsiva para dispositivos móveis
 
-Tecnologias
+## Tecnologias
 
 - JavaScript
 - Node.js
 - React
-- (adicione aqui outras tecnologias que o projeto usa)
 
-Instalação
+## Instalação
 
 1. Clone o repositório:
 
@@ -32,7 +33,7 @@ Instalação
 
    npm install
 
-Uso (desenvolvimento)
+## Uso (desenvolvimento)
 
 - Iniciar em modo de desenvolvimento:
 
@@ -42,38 +43,34 @@ Uso (desenvolvimento)
 
   npm start
 
-Build
+## Build
 
 - Gerar build para produção:
 
   npm run build
 
-Testes
+## Testes
 
 - Executar suíte de testes:
 
   npm test
 
-Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Siga este fluxo:
 
 1. Fork este repositório
-2. Crie uma branch para sua feature: git checkout -b feature/nome-da-feature
+2. Crie uma branch para sua feature: `git checkout -b feature/nome-da-feature`
 3. Faça commits claros e descritivos
 4. Abra um Pull Request
 
-Licença
-
-Este projeto está, por padrão, com a licença MIT. Substitua por outra licença se necessário.
+## Licença
 
 MIT © 2026 eloiescolhido7-star
 
-Contato
+## Contato
 
 - Perfil: https://github.com/eloiescolhido7-star
 
-Notas
 
-- Atualize este README com informações reais do projeto (descrição detalhada, instruções específicas de instalação/execução, e lista final de tecnologias).
-- Se quiser, posso também criar um arquivo LICENSE (MIT) e um exemplo de index.html ou um template inicial. Diga o que prefere.
+> Nota: Este README foi atualizado automaticamente. Se quiser textos diferentes (título, descrição, ou outro logo), envie os valores e atualizo novamente.
